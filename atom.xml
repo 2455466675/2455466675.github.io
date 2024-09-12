@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yoursite.com</id>
+    <id>https://2455466675.github.io</id>
     <title>我的游戏</title>
     <subtitle>尝试去做</subtitle>
-    <icon>http://yoursite.com/images/favicon.ico</icon>
-    <link href="http://yoursite.com" />
+    <icon>https://2455466675.github.io/images/favicon.ico</icon>
+    <link href="https://2455466675.github.io" />
     <author>
       <name>飞月流影</name>
     </author>
@@ -12,16 +12,16 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>http://yoursite.com/jingjing/</id>
+        <id>https://2455466675.github.io/jingjing/</id>
         <title>我想静静</title>
-        <link rel="alternate" href="http://yoursite.com/jingjing/"/>
+        <link rel="alternate" href="https://2455466675.github.io/jingjing/"/>
         <content type="html"></content>
         <updated>2024-09-11T14:57:53.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/hello-world/</id>
+        <id>https://2455466675.github.io/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://yoursite.com/hello-world/"/>
+        <link rel="alternate" href="https://2455466675.github.io/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
